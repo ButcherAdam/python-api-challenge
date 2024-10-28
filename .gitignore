@@ -1,0 +1,6 @@
+# Adding api_keys.py file.
+api_keys.py
+# Adding __pycache__/ directory
+__pycache__/
+# Adding .ipynb_checkpoints/ directory
+**/*.ipynb_checkpoints/
